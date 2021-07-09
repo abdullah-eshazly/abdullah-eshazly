@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullah-eshazly
 - 👀 I’m interested in android applications
-- 🌱 I’m currently learning make java to make applications by androidstudio
+- 🌱 I’m currently learning  java launguage to make applications by androidstudio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
